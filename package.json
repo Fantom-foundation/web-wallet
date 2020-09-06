@@ -23,7 +23,7 @@
     "ethereumjs-tx": "^1.3.7",
     "ethereumjs-util": "^6.0.0",
     "file-saver": "^2.0.2",
-    "handlebars": "^4.7.2",
+    "handlebars": "^4.5.3",
     "hdkey": "^1.1.1",
     "history": "^4.10.1",
     "i18next": "^19.1.0",
